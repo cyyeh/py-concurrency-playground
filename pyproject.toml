@@ -6,6 +6,8 @@ authors = ["ChihYu Yeh <chihyu.jimmy.yeh@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+requests = "^2.27.1"
+aiohttp = "^3.8.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
